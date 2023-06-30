@@ -133,13 +133,13 @@ logOut.addEventListener('click', function () {
 
 
 
-
-//Service page//
+//This will take you to Service page//
 
 const customerButton = document.querySelector('.customer-btn');
  customerButton.addEventListener('click', function()  {
     window.location = './service-pg.html';
  })
+
 
 
 
