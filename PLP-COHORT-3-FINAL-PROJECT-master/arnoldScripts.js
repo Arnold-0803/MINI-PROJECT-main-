@@ -137,7 +137,7 @@ logOut.addEventListener('click', function () {
 
 const customerButton = document.querySelector('.customer-btn');
  customerButton.addEventListener('click', function()  {
-    window.location = './service-pg.html';
+    window.location = './pages.html';
  })
 
 
