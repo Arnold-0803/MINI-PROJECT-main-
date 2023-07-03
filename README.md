@@ -2,7 +2,7 @@ PROJECT PROPOSAL
 
 TITLE: E-COMMERCE & AGRIBUSUNESS 
 
-NAME: ARNOLD KIRITU                                                                                                  DATE:0/0/2023 
+NAME: ARNOLD KIRITU                                                                                                  DATE:13/06/2023 
 
  
 
