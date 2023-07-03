@@ -141,5 +141,11 @@ const customerButton = document.querySelector('.customer-btn');
  })
 
 
+ //Partners portal
+  function comingSoon() {
+    window.alert('SERVICE COMING...');
+  }
+
+
 
 
