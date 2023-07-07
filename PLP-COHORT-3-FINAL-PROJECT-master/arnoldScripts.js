@@ -48,7 +48,7 @@ signUpButton.addEventListener('click', function (e) {
             const user = userCredentila.user;
 
             window.alert('USER CREATED. SUCCESSFULLY!✔');
-            // window.location = './home-pg.html';
+            window.location = 'pages.html';
 
             set(ref(database, 'user/' + user.uid), {
                 signUpName: signUpName,
@@ -72,7 +72,7 @@ logInButton.addEventListener('click', function (e) {
     signInWithEmailAndPassword(auth, email, password)
         .then((userCredentila) => {
             window.alert('LOGGED IN SUCCESSFULLY. WELLCOME!✔');
-            // window.location = './home-pg.html';
+            window.location = 'pages.html';
         })
         .catch((error) => {
             const errorCode = error.code;
